@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/download-plugin/app" isTestSource="false" packagePrefix="DPWAP" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/duplicator/src" isTestSource="false" packagePrefix="Duplicator" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/elementor/includes" isTestSource="false" packagePrefix="Elementor" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/pagekit/app/modules/application/src" isTestSource="false" packagePrefix="Pagekit" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/paid-memberships-pro/includes/lib/Braintree/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/paid-memberships-pro/includes/lib/Stripe/lib" isTestSource="false" packagePrefix="Stripe" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
